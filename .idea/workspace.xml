@@ -53,8 +53,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="344" />
-    <option name="y" value="213" />
+    <option name="x" value="391" />
+    <option name="y" value="243" />
     <option name="width" value="1154" />
     <option name="height" value="676" />
   </component>
@@ -107,7 +107,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1557118620026</updated>
-      <workItem from="1557118622050" duration="4629000" />
+      <workItem from="1557118622050" duration="4785000" />
     </task>
     <task id="LOCAL-00001" summary="创建pm2配置文件">
       <created>1557121830876</created>
@@ -141,10 +141,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4629000" />
+    <option name="totallyTimeSpent" value="4785000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="404" y="303" width="1154" height="676" extended-state="0" />
+    <frame x="391" y="243" width="1154" height="676" extended-state="0" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Grunt " side_tool="true" />
