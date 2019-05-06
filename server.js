@@ -13,7 +13,7 @@ var bodyParser = require('body-parser');
 
 
 //设置端口
-var port = process.env.PORT || 8100;
+var port = process.env.PORT || 8083;
 //设置数据库地址
 var dbUrl = 'mongodb://localhost:27017/ve_platform'
 var app = express();
