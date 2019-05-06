@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="520f4c5f-160e-4f4f-bd45-12c8f9dd471f" name="Default Changelist" comment="创建pm2配置文件">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="520f4c5f-160e-4f4f-bd45-12c8f9dd471f" name="Default Changelist" comment="创建pm2配置文件" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -27,7 +25,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
+            <state relative-caret-position="-497">
               <caret line="21" column="63" lean-forward="true" selection-start-line="21" selection-start-column="63" selection-end-line="21" selection-end-column="63" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -55,8 +53,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="341" />
-    <option name="y" value="629" />
+    <option name="x" value="344" />
+    <option name="y" value="213" />
     <option name="width" value="1154" />
     <option name="height" value="676" />
   </component>
@@ -81,6 +79,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -108,7 +107,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1557118620026</updated>
-      <workItem from="1557118622050" duration="4273000" />
+      <workItem from="1557118622050" duration="4629000" />
     </task>
     <task id="LOCAL-00001" summary="创建pm2配置文件">
       <created>1557121830876</created>
@@ -142,20 +141,20 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4273000" />
+    <option name="totallyTimeSpent" value="4629000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="403" y="207" width="1154" height="676" extended-state="0" />
+    <frame x="404" y="303" width="1154" height="676" extended-state="0" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Grunt " side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30097088" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30097088" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" weight="0.32876712" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info active="true" anchor="bottom" id="Event Log" side_tool="true" visible="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" visible="true" weight="0.32876712" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -188,7 +187,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
+        <state relative-caret-position="-497">
           <caret line="21" column="63" lean-forward="true" selection-start-line="21" selection-start-column="63" selection-end-line="21" selection-end-column="63" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
