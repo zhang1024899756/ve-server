@@ -1,0 +1,26 @@
+{
+  "apps" : [{
+    "name"      : "ve-server",
+    "script"    : "server.js",
+    "env": {
+      "COMMON_VARIABLE": "true"
+    },
+    "env_production" : {
+      "NODE_ENV": "production"
+    }
+  }],
+  "deploy" : {
+    "production" : {
+      "user" : "zhang_xinyu",
+      "host" : ["120.79.4.192"],
+      "port": "22222",
+      "ref"  : "origin/master",
+      "repo" : "git@github.com:zhang1024899756/ve-server.git",
+      "path" : "/www/ve-server",
+      "ssh_options": "StrictHostKeyChecking=no",
+      "env"  : {
+        "NODE_ENV": "production"
+      }
+    }
+  }
+}
